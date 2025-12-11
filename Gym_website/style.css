@@ -12,6 +12,12 @@
     background-size: cover;
     position: relative;
 }
+.link a{
+    text-decoration: none;
+    font-size: 45px;
+    color: white;
+}
+
 
 nav{
     display: flex;
